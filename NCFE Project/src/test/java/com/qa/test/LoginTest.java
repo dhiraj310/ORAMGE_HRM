@@ -43,7 +43,7 @@ public class LoginTest extends TestBase
 	}
 
 
-	@Test(enabled =false)
+	//@Test(enabled =false)
 	public void HRMlogin() throws Exception 
 	{
 		//HRMLoginPage hrmlogin=new HRMLoginPage();
